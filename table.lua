@@ -1,1 +1,1 @@
-{"Cats", "Dogs"}
+Pizza
